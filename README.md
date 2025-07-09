@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Excellence
-- 👀 I’m interested in Tech
-- 🌱 I’m currently learning JavaScript and React Native
+- 👀 I’m interested in Tech Jobs
+- 🌱 I’m currently working on React Native projects
 - 📫 How to reach me listenexcellence@gmail.com 
 
 <!---
